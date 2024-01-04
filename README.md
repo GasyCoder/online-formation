@@ -31,16 +31,16 @@ To get started with the project, follow these steps:
 
 ## Installation
 
-```bash
-    cd online-formation
-    composer install            # Install Laravel dependencies
-    config file .env            # Copy.env.example to .env and add your database informations
-    php artisan key:generate    # Generate key
-    npm run build               # Start the frontend
-    php artisan migrate         # Migrate database
-    php artisan db:seed         # DB Seeder
-    php artisan serve           # Start the Laravel backend
-```
+    ```bash
+        cd online-formation
+        composer install            # Install Laravel dependencies
+        config file .env            # Copy.env.example to .env and add your database informations
+        php artisan key:generate    # Generate key
+        npm run build               # Start the frontend
+        php artisan migrate         # Migrate database
+        php artisan db:seed         # DB Seeder
+        php artisan serve           # Start the Laravel backend
+    ```
 
 ## Access the Application
 
