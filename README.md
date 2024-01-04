@@ -26,21 +26,21 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/online-formation.git
+    https://github.com/GasyCoder/online-formation.git
     ```
 
 ## Installation
 
-<code>
+```bash
     cd online-formation
     composer install            # Install Laravel dependencies
-    file .env                   # Copy.env.example to .env
+    config file .env            # Copy.env.example to .env and add your database informations
     php artisan key:generate    # Generate key
     npm run build               # Start the frontend
     php artisan migrate         # Migrate database
     php artisan db:seed         # DB Seeder
     php artisan serve           # Start the Laravel backend
-</code>
+```
 
 ## Access the Application
 
