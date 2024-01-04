@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Muli";
+    font-style: normal;
+    font-weight: 300;
+    src: url(load/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf)
+        format("truetype");
+}
+@font-face {
+    font-family: "Muli";
+    font-style: normal;
+    font-weight: 400;
+    src: url(load/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf)
+        format("truetype");
+}
+@font-face {
+    font-family: "Muli";
+    font-style: normal;
+    font-weight: 600;
+    src: url(load/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf)
+        format("truetype");
+}
+@font-face {
+    font-family: "Muli";
+    font-style: normal;
+    font-weight: 700;
+    src: url(load/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf)
+        format("truetype");
+}
